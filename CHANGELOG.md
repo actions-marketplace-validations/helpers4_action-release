@@ -4,8 +4,14 @@ All notable changes to this project are documented in this file.
 
 ## [Unreleased]
 
+## [0.5.2] - 2026-11-01
+
 The refusal to move the branch now also points at a classic branch protection, which rulesets hide and which
 the action cannot read (it needs the administration permission). The README also explains the order of a first release across npm, crates.io and JSR.
+
+### Bug fixes
+
+- **commit**: 📝 point at a classic branch protection when the branch refuses the release commit
 
 ## [0.5.1] - 2026-11-01
 
