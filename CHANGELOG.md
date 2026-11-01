@@ -4,6 +4,17 @@ All notable changes to this project are documented in this file.
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-11-01
+
+### Features
+
+- **config**: ✨ publish the npm packages a build generates (npm: dir/*)
+- **verify**: ✨ stop before writing on an npm package that does not exist yet
+
+### Bug fixes
+
+- **since**: 🐛 keep @since next on a prerelease
+
 ## [0.4.4] - 2026-10-31
 
 ### Features
