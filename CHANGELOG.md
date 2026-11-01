@@ -4,10 +4,20 @@ All notable changes to this project are documented in this file.
 
 ## [Unreleased]
 
+## [0.6.1] - 2026-11-01
+
 The README explains how to create your own GitHub App: `helpers4-bot` only works for the helpers4 and baxyz repositories.
 
 A crate that crates.io does not know stops the release before it writes, like an unknown npm package: the message lists
 the steps, and the new `crates-token` input can publish it once. The README explains the first release of a project.
+
+### Features
+
+- **preflight**: ✨ stop on a crate crates.io does not know, and list the steps of a first release
+
+### Documentation
+
+- **docs**: 📝 explain how to create your own GitHub App for the release
 
 ## [0.6.0] - 2026-11-01
 
