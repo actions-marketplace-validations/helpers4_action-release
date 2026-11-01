@@ -4,6 +4,16 @@ All notable changes to this project are documented in this file.
 
 ## [Unreleased]
 
+## [0.6.0] - 2026-11-01
+
+### Features
+
+- **action**: ✨ leave the GitHub Release as a draft with publish-release: false
+
+### Reverts
+
+- **action**: ⏪ remove the publish-release input
+
 ## [0.5.2] - 2026-11-01
 
 The refusal to move the branch now also points at a classic branch protection, which rulesets hide and which
